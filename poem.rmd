@@ -15,7 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-
+Little maidens, when you look  
+On this little story book,  
+Reading with attentive eye  
+It's enticing history,  
+Never think that your hours of play
+  
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -24,3 +29,16 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+Those special memories of you  
+Will always bring a smile  
+If only I could have you back  
+For just a little while  
+Then we could sit and talk again  
+Just like we used to do  
+you always meant so very much to me  
+and always will do too  
+The fact that you're no longer here  
+will always cause me pain  
+but you're forever in my heart  
+Until we meet again  
+  
